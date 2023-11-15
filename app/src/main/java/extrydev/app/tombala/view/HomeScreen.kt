@@ -596,7 +596,6 @@ fun findMinutesUntilNextInterval(time: Calendar, interval: Int): Long {
     val currentMinuteSlot = (minutesOfHour / interval) * interval
     val timeUntilNextInterval = interval - (minutesOfHour - currentMinuteSlot)
     return timeUntilNextInterval.toLong()
-    val x = 1
 }
 
 fun saveLastSpinDate(context: Context) {
