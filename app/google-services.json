@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "296415773308",
+    "project_id": "tombala-87ef9",
+    "storage_bucket": "tombala-87ef9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296415773308:android:60e5be5556ce5fc001bff9",
+        "android_client_info": {
+          "package_name": "extrydev.app.tombala"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSfRwWEMpKQJGeOTNXwdNO_biH1UWCUgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

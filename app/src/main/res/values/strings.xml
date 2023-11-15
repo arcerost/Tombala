@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tombalam</string>
+    <string name="channel_name">Tombalam Uygulaması Bildirimleri</string>
+    <string name="channel_description">Uygulamayla alakalı bildirimler</string>
+</resources>
