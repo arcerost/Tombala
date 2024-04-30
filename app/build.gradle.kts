@@ -8,16 +8,16 @@ plugins {
 }
 
 android {
-    namespace = "extrydev.app.tombala"
+    namespace = "extrydev.app.tombalam"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "extrydev.app.tombala"
+        applicationId = "extrydev.app.tombalam"
         minSdk = 24
         //noinspection OldTargetApi
         targetSdk = 33
-        versionCode = 13
-        versionName = "2.6"
+        versionCode = 2
+        versionName = "1.1"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         multiDexEnabled = true
         vectorDrawables {
